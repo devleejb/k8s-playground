@@ -5,5 +5,4 @@
 ## Contents
 
 - [simple-example-with-spring-boot](./simple-example-with-spring-boot/)
-
   - ReplicationController를 이용하여 k8s에 간단한 SpringBoot 애플리케이션 배포
